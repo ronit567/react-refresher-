@@ -1,6 +1,6 @@
 //Pascal Casing 
 function Message () {
-    const name = "Mosh"
+    const name = "Ronit"
     return <h1> Hello {name} </h1>;
 }
 
